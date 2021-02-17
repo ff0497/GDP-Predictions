@@ -1,2 +1,2 @@
 # GDP-Predictions
-Predicting German GDP using 
+Predicting German GDP using tidymodels in R and machine learning algorithms
